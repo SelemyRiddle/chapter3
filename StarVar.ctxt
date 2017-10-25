@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StarVar
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ patternA()
+comment3.params=
+comment3.target=void\ patternB()
+comment4.params=num\ st
+comment4.target=void\ printItemA(int,\ java.lang.String)
+comment5.params=num\ st
+comment5.target=void\ printItemB(int,\ java.lang.String)
+numComments=6
